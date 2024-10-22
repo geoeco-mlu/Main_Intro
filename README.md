@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="2.0.-GeoECO_MLUnochkleiner.png" alt="Descriptive Alt Text" width="100%">
+  <img src="2.0.-GeoECO_MLUnochkleiner.png" alt="Descriptive Alt Text" width="60%">
 </div>
 
 # Geoecology Research Group - Repository Guide

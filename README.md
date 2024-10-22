@@ -1,5 +1,5 @@
-Geoecology Research Group - Repository Guide
-Welcome to Geoecology Halle! 🌍
+# Geoecology Research Group - Repository Guide
+## Welcome to Geoecology Halle! 🌍
 Welcome to the GitHub organization of the Geoecology Research Group at Martin Luther University Halle-Wittenberg. Our digital workspace serves as a central hub for research projects, teaching materials, and collaborative tools in the field of geoecology.
 
 ## Repository Structure

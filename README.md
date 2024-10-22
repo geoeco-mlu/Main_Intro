@@ -1,24 +1,12 @@
-# Geoecology Research Group - Repository Guide
+Geoecology Research Group - Repository Guide
+Welcome to Geoecology Halle! 🌍
+Welcome to the GitHub organization of the Geoecology Research Group at Martin Luther University Halle-Wittenberg. Our digital workspace serves as a central hub for research projects, teaching materials, and collaborative tools in the field of geoecology.
 
 ## Repository Structure
 
 ```
 geoecology-halle/
 ├── research-projects/               # Active research projects
-│   ├── environmental-monitoring/    # Environmental data collection and analysis
-│   │   ├── field-protocols/        # Standard operating procedures for field work
-│   │   ├── data-collection/        # Raw data and collection scripts
-│   │   └── analysis/              # Analysis scripts and results
-│   │
-│   ├── biogeochemical-cycling/     # Biogeochemical research
-│   │   ├── soil-analysis/         # Soil sampling and analysis protocols
-│   │   ├── lab-protocols/         # Laboratory procedures
-│   │   └── data/                  # Datasets and analysis
-│   │
-│   └── land-use-change/           # Land use impact studies
-│       ├── satellite-data/        # Remote sensing data processing
-│       ├── ground-truth/          # Field validation data
-│       └── models/                # Predictive models and analysis
 │
 ├── teaching-materials/             # Educational resources
 │   ├── courses/                   # Course-specific materials
